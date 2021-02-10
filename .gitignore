@@ -21,6 +21,7 @@ cdk.context.json
 cdk.out
 cdk.out/
 coverage
+dependabot.yml
 jspm_packages/
 junit.xml
 lerna-debug.log*

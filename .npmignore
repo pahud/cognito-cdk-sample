@@ -18,6 +18,7 @@
 cdk.context.json
 cdk.out
 cdk.out/
+dependabot.yml
 dist
 junit.xml
 yarn-error.log
